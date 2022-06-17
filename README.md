@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danny Zakharov</h1>
 <h3 align="center">Machine Learner & Data Scientist form Russia</h3>
-ITMO University (Rusia)
-Software engineering faculty
+<h4 align="left"> ITMO University (Rusia) </h4>
+<h4 align="left"> Software engineering faculty </h4>
 
 - 🔭 I’m currently working on **Text-corrector**
 
