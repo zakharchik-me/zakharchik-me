@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Danny Zakharov</h1>
+<h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Machine Learner & Data Scientist form Russia</h3>
 <h4 align="left"> ITMO University (Rusia) </h4>
 <h4 align="left"> Software engineering faculty </h4>
+_____
 
 - 🔭 I’m currently working on **Text-corrector**
 
@@ -12,12 +13,16 @@
 - ⚡ Fun fact **Mentally based**
 _____
 **Hard Skills:** <br>
-                OOP Python/C++ <br>
-                SQL<br>
-                Hadoop<br>
-                ETL/ELT<br>
+Basic Ml <br>
+               * OOP (C++, Python) <br>
+                * SQL                <br>
+                * Hadoop              <br>
+                * ETL/ELT             <br>
 _____
-
+**Soft skills** <br>
+* Communicative, responsible, punctual, cheerful <br>
+* Can speak clearly English, Russian and German a little bit <br>
+_____
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18992751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18992751" height="30" width="40" /></a>
