@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny Zakharov</h1>
-<h3 align="center">Machine Learner & Data Scientist form Russia</h3>
+<h3 align="center">Machine Learner & Data Scientist form Russia(https://www.pvsm.ru/images/2017/12/20/materialy-otkrytogo-kursa-OpenDataScience-i-Mail-Ru-Group-po-mashinnomu-obucheniyu-i-novyi-zapusk-3.jpeg)</h3>
 
 - 🔭 I’m currently working on **Text-corrector**
 
