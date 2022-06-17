@@ -10,10 +10,10 @@
 - 📫 How to reach me **https://t.me/zakharchik_me**
 
 - ⚡ Fun fact **Mentally based**
--Hard Skills: OOP Python/C++
-              SQL
-              Hadoop
-              ETL/ELT
+-  **Hard Skills:** OOP Python/C++
+                    SQL
+                    Hadoop
+                    ETL/ELT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
