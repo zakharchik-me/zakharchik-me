@@ -2,7 +2,6 @@
 <h3 align="center">Machine Learner & Data Scientist form Russia</h3>
 <h4 align="left"> ITMO University (Rusia) </h4>
 <h4 align="left"> Software engineering faculty </h4>
-_____
 
 - 🔭 I’m currently working on **Text-corrector**
 
@@ -14,10 +13,10 @@ _____
 _____
 **Hard Skills:** <br>
 Basic Ml <br>
-               * OOP (C++, Python) <br>
-                * SQL                <br>
-                * Hadoop              <br>
-                * ETL/ELT             <br>
+* OOP (C++, Python) <br>
+* SQL                <br>
+* Hadoop              <br>
+* ETL/ELT             <br>
 _____
 **Soft skills** <br>
 * Communicative, responsible, punctual, cheerful <br>
@@ -27,7 +26,8 @@ _____
 <p align="left">
 <a href="https://stackoverflow.com/users/18992751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18992751" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/dannybalint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dannybalint" height="30" width="40" /></a>
-<a href="https://instagram.com/zakharchik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakharchik_" height="30" width="40" /></a>
+<a href="https://instagram.com/zakharchik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakharchik_" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
