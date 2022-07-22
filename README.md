@@ -12,11 +12,10 @@
 - ⚡ Fun fact **Mentally based**
 _____
 **Hard Skills:** <br>
-Basic Ml <br>
+* Basic Ml <br>
 * OOP (C++, Python) <br>
 * SQL                <br>
-* Hadoop              <br>
-* ETL/ELT             <br>
+
 _____
 **Soft skills** <br>
 * Communicative, responsible, punctual, cheerful <br>
