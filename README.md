@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Machine Learner & Data Scientist form Russia</h3>
-<h4 align="left"> ITMO University (Rusia) </h4>
+<h4 align="left"> ITMO University (Russia) </h4>
 <h4 align="left"> Software engineering faculty </h4>
 
 - 🔭 I’m currently working on **Text-corrector**
@@ -8,6 +8,12 @@
 - 📫 How to reach me **https://t.me/zakharchik_me**
 
 - ⚡ Fun fact **Mentally based**
+_____
+**Hackatones** <br>
+* Digital Hackatone - Moscow CV 2022 **Winner** <br>
+* Rosneft - present <br>
+* ODS - participant <br>
+* Kaggle - expert   <br>
 _____
 **Hard Skills:** <br>
 * Ml, CV <br>
