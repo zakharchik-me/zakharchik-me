@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Text-corrector**
 
-- 📝 I regularly write articles on [https://habr.com/ru/users/zakharchik-me/](https://habr.com/ru/users/zakharchik-me/)
-
 - 📫 How to reach me **https://t.me/zakharchik_me**
 
 - ⚡ Fun fact **Mentally based**
 _____
 **Hard Skills:** <br>
-* Basic Ml <br>
-* OOP (C++, Python) <br>
+* Ml, CV <br>
+* OOP (C++, Python, C#) <br>
 * SQL                <br>
 
 _____
