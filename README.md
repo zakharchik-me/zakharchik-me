@@ -3,7 +3,7 @@
 <h4 align="left"> ITMO University (Russia) </h4>
 <h4 align="left"> Software engineering faculty </h4>
 
-- 🔭 I’m currently working on **Text-corrector**
+- 🔭 I’m currently working on **Auto-regression alg NN for Hackatone**
 
 - 📫 How to reach me **https://t.me/zakharchik_me**
 
