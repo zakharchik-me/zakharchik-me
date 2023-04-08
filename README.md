@@ -10,14 +10,18 @@
 _____
 **Hackatones** <br>
 * Digital Hackatone - Moscow CV 2022 **Winner** <br>
-* Rosneft - present <br>
+* Chesnie Znak Hack - Russia TimeSeries **Winner** <br>
+* African Hack - World Wide Classic ML **Winner** <br>
+* SPGU x Megafon - Russia **in progress* <br>
+* Rosneft - TimeSeries **4th** <br>
 * ODS - participant <br>
 * Kaggle - expert   <br>
 _____
 **Hard Skills:** <br>
 * Ml, CV <br>
 * C++, Python, C# <br>
-* SQL                <br>
+* SQL, Docker, Bash, Linux  <br>
+* 
 
 _____
 **Soft skills** <br>
